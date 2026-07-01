@@ -1,0 +1,21 @@
+---Python---
+--pycache/
+-*.py[cod]
+-*$py.class
+
+--Virtual environments
+-venv/
+-env/
+-.venv/
+
+--VS Code
+-.vscode/
+
+--macOS
+-.DS_Store
+
+--Windows
+-Thumbs.db
+
+--Logs
+-*.log
